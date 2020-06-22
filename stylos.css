@@ -1,0 +1,94 @@
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+font-family: 'Staatliches', cursive;}
+
+.contenido{
+  padding: 60px 0;
+  width: 90%;
+  max-width: 1000px;
+}
+nav{
+  position: absolute;
+left: 550px;
+ margin: 50px;
+}
+nav> a{color:#000;
+  position: relative;
+  font-size: 23px;
+  font-weight:300;
+  text-decoration: none;
+  margin-right: 40px;}
+
+  header .textosheader{
+     position: absolute;
+left: 150px;
+margin-top: 25px;
+
+  }
+  .recomendaciones{
+   position: absolute;
+   bottom:300px;
+   left: 900px;
+   font-size: 20px
+
+  }
+  .andressuarez{
+    position: absolute;
+    left:900px;
+    bottom: 100px;
+  
+  }
+  .j-ax{
+position: absolute;
+ left:900px;
+top: 650px;
+
+  }
+   .deathbed{
+    position: absolute;
+    left:900px;
+    top: 900px;
+  
+  }
+
+
+   .as{
+    position: absolute;
+   bottom:40px;
+   left: 900px;
+   font-size:15px;
+  }
+   .j-axtitle{
+    position: absolute;
+   top:820px;
+   left:900px;
+   font-size:13px;
+  }
+  .pdb{
+       position: absolute;
+   top:1080px;
+   left:900px;
+   font-size:13px;
+  }
+
+  header .titulo{
+  position: absolute;
+  left:100px;
+  bottom:317px;
+  }
+div.galeria-port{
+  position: absolute;
+  left:100px;
+  bottom: 120px;
+  
+}
+.titulo1{
+  position:absolute;
+  left:20px;
+  font-size:21px;
+}
